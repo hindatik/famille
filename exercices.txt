@@ -1,0 +1,37 @@
+### EXERCICES GO ###
+
+Exo 1:
+.Initialiser les variables 'nom' et 'prenom'  sans leur attribuer de valeurs.
+.Déclarer une variable 'age' en lui attribuant une valeur.
+.Attribuer une valeur au variable 'nom' et 'prenom'
+.Afficher en une seul ligne dans le terminal la phrase:
+	"Je suis <prenom> <nom> et j'ai <age> ans."
+
+(Attention aux types des variables)
+
+
+Exo 2:
+.Déclarer une variable 'age' contenant votre age
+.Créer une condition: 
+SI age est plus petit que 18 alors afficher 'vous êtes mineur', 
+SINON SI votre age est inferieur à 0 alors afficher 'vous n'êtes même pas né'
+SINON afficher 'vous êtes majeur'
+
+
+Exo 3:
+.Afficher tout l'alphabet de cette façon: 'abcdefghijklmnopqrstuvwxyz'
+Vous ne devez afficher qu'une lettre à la fois.
+
+
+Exo 4:
+.Tout pareil mais à l'envers (de 'z' à 'a')
+
+
+Exo 5:
+.Faire une fonction qui va calculer la puissance n d'un nombre x de manière itérative.
+
+
+Exo 6:
+.Faire une fonction qui va calculer la puissance n d'un nombre x de manière récursive.
+
+
