@@ -1,0 +1,27 @@
+		#Atelier sécurité et anonymat sur le WEB (Kheir, Hind, Benjamin)
+
+
+1. Petit pitch à propos du manque de vie privée sur internet (pub ciblé, facebook, ...) ainsi que des différents dangers (virus, ...).
+
+2. Presentation de divers outils en rapport à l'anonymat et à la sécurité:
+  a. VPN
+  b. Password manager
+  c. Plugins pour navigateur (bloqueur de tracker(trocker), httpseverywhere, fingerprint(canvas fingerprint defender), cookies auto delete...)
+	Permet également d'expliquer certains concepts comme les métadonnés, les fingerprints, les cookies...
+  d. Antivirus
+  e. (TOR peut être ?)
+
+3. Montrer divers manières de se faire pirater, differents types de virus simples
+	(pourquoi pas vraiment se faire pirater en utilisant une VM)
+	(pourquoi pas utiliser un virus fait par nous même pour illustrer)
+
+Points positifs:
+	.Initiation à l'utilisation d'internet en toute sécurité
+	.Savoir se protéger sur internet devient de plus en plus important de nos jours
+	.Pose la question importante du l'anonymat sur internet 
+	.Se faire pirater en direct peut amuser les prospects 
+
+Points négatifs:	
+	.Les prospects sont plus spéctateurs qu'acteurs pendant l'atelier -> le présentateur doit vraiment bien savoir animé l'atelier pour ne pas que les prospects ne s'ennuies
+	.Peut être un peu complex si le présentateur rentre trop dans les détails
+
